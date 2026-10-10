@@ -1,0 +1,4 @@
+# The static storefront lives in a subfolder, so publish it as the site root.
+[build]
+  publish = "Panzy 3 merge web"
+  command = ""
