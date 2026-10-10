@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 920" role="img" aria-labelledby="title desc">
+  <title id="title">Rose gold crystal tealight holder concept illustration</title>
+  <desc id="desc">Original illustration of a faceted glass tealight holder in a rose gold-tone stand.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f6eee7"/><stop offset="1" stop-color="#e1d2c6"/></linearGradient>
+    <linearGradient id="metal" x2="1" y2="1"><stop stop-color="#f0c5a8"/><stop offset=".48" stop-color="#a96650"/><stop offset="1" stop-color="#f0c4a6"/></linearGradient>
+    <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#fffefa" stop-opacity=".91"/><stop offset="1" stop-color="#c7d0d0" stop-opacity=".68"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ffd994" stop-opacity=".55"/><stop offset="1" stop-color="#ffd994" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="920" fill="url(#bg)"/>
+  <circle cx="406" cy="399" r="270" fill="url(#glow)"/>
+  <path d="M0 700c211-49 463-31 800 1v219H0z" fill="#d2bfb0"/>
+  <ellipse cx="399" cy="738" rx="170" ry="27" fill="#5a4541" opacity=".18"/>
+  <path d="M276 688h248l-18 28H294z" fill="url(#metal)"/>
+  <path d="M322 682c0-47 29-79 78-96 49 17 78 49 78 96" fill="none" stroke="url(#metal)" stroke-width="14"/>
+  <path d="M290 517 323 397h154l33 120-43 144H333z" fill="url(#glass)" stroke="url(#metal)" stroke-width="9"/>
+  <path d="m323 397 77 46 77-46M290 517l110-74 110 74M333 661l67-218 67 218M290 517l43 144m177-144-43 144" fill="none" stroke="#b68a78" stroke-opacity=".75" stroke-width="5"/>
+  <path d="M360 396c-5-34 19-45 21-72 23 20 20 39 10 53 18-11 25-28 23-45 34 32 27 49 17 64z" fill="#ffbb62"/>
+  <path d="M382 398c-1-19 13-26 16-42 16 20 12 31 6 42z" fill="#fff0b8"/>
+  <circle cx="318" cy="526" r="7" fill="#fff"/><circle cx="476" cy="554" r="8" fill="#fff"/><circle cx="397" cy="628" r="7" fill="#fff"/>
+  <text x="400" y="817" text-anchor="middle" fill="#725e58" font-family="Georgia,serif" font-size="24" letter-spacing="7">CANDLELIGHT STUDY · 02</text>
+</svg>

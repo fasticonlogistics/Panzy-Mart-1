@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 920" role="img" aria-labelledby="title desc">
+  <title id="title">King queen and knight chess sculpture concept illustration</title>
+  <desc id="desc">Original illustration of three chess-inspired decorative sculptures arranged on a plinth.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#eee7df"/><stop offset="1" stop-color="#cbb9a7"/></linearGradient>
+    <linearGradient id="stone" x2="1" y2="1"><stop stop-color="#e5cfb3"/><stop offset=".48" stop-color="#9c8069"/><stop offset="1" stop-color="#dcc7ad"/></linearGradient>
+    <linearGradient id="dark" x2="1" y2="1"><stop stop-color="#70584a"/><stop offset="1" stop-color="#342e2d"/></linearGradient>
+  </defs>
+  <rect width="800" height="920" fill="url(#bg)"/>
+  <circle cx="602" cy="208" r="110" fill="#faf4e9" opacity=".55"/>
+  <path d="M0 700c210-49 507-35 800 6v214H0z" fill="#baa895"/>
+  <path d="M143 650h514v71H143z" fill="#675348"/>
+  <path d="M169 630h462v26H169z" fill="#b79a7c"/>
+  <ellipse cx="404" cy="729" rx="258" ry="24" fill="#43342c" opacity=".2"/>
+  <g fill="url(#stone)" stroke="#715a49" stroke-width="5" stroke-linejoin="round">
+    <path d="M242 620h125l-13-35h-99zM261 585l19-110h51l19 110zM264 474h64l-8-31h-48zM275 443l21-22 21 22z"/>
+    <path d="M273 464v-28m46 28v-28m-46 8h46"/>
+    <path d="M374 620h132l-14-35h-104zM389 585l18-78h64l18 78zM404 507v-88c0-25 14-41 36-41s36 16 36 41v88z"/>
+    <path d="M402 420c20-27 49-38 75-29l-27 39-24 21-22-8zM445 397l26-31-4 31m-64 43h66"/>
+    <path d="M521 620h97l-11-35h-75zM536 585l14-106h39l14 106zM540 478h58l-8-31h-42zM556 446l13-35 15 35z"/>
+    <path d="M552 480v-29m31 29v-29m-31 9h31"/>
+  </g>
+  <path d="M251 604h107m27 0h112m20 0h81" stroke="#f1dfc8" stroke-width="5" opacity=".75"/>
+  <text x="400" y="817" text-anchor="middle" fill="#5c4a40" font-family="Georgia,serif" font-size="24" letter-spacing="7">COLLECTED FOR THE SHELF · 06</text>
+</svg>

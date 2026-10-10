@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 920" role="img" aria-labelledby="title desc">
+  <title id="title">Apollo dual tealight food warmer concept illustration</title>
+  <desc id="desc">Original illustration of a chrome tabletop warming rack above two tealights.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#ecf0ef"/><stop offset="1" stop-color="#c9d1ce"/></linearGradient>
+    <linearGradient id="steel" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".22" stop-color="#aab4b4"/><stop offset=".5" stop-color="#f8fbfa"/><stop offset=".75" stop-color="#818e90"/><stop offset="1" stop-color="#e7ecea"/></linearGradient>
+    <linearGradient id="flame" x2="0" y2="1"><stop stop-color="#fff2ae"/><stop offset="1" stop-color="#e28c4c"/></linearGradient>
+  </defs>
+  <rect width="800" height="920" fill="url(#bg)"/>
+  <path d="M0 711c235-49 501-37 800 1v208H0z" fill="#b7c0bd"/>
+  <ellipse cx="400" cy="735" rx="263" ry="32" fill="#47524f" opacity=".2"/>
+  <path d="M204 336h392l-45 75H249z" fill="url(#steel)" stroke="#718082" stroke-width="7"/>
+  <path d="M238 343h324m-301 29h278m-250 28h224" stroke="#778587" stroke-width="7"/>
+  <path d="M250 411 285 647m265-236-35 236" fill="none" stroke="url(#steel)" stroke-width="21"/>
+  <path d="M281 641h258" stroke="#758183" stroke-width="20" stroke-linecap="round"/>
+  <path d="M297 641c0-39 24-65 56-65s56 26 56 65M393 641c0-39 24-65 56-65s56 26 56 65" fill="#c9d0ce" stroke="url(#steel)" stroke-width="8"/>
+  <path d="M333 577c-8-28 11-40 16-62 22 20 18 40 8 62m88 0c-7-28 12-40 17-62 21 20 17 40 8 62" fill="url(#flame)"/>
+  <path d="M370 336v-57m60 57v-57m-120 57v-57m240 57v-57" stroke="#fff" stroke-opacity=".86" stroke-width="5"/>
+  <circle cx="263" cy="351" r="8" fill="#fff"/><circle cx="531" cy="351" r="8" fill="#fff"/>
+  <text x="400" y="817" text-anchor="middle" fill="#4e5b5c" font-family="Georgia,serif" font-size="24" letter-spacing="7">TABLE SERVICE STUDY · 04</text>
+</svg>

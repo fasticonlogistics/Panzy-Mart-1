@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 920" role="img" aria-labelledby="title desc">
+  <title id="title">Music lover photo frame concept illustration</title>
+  <desc id="desc">Original illustration of a tabletop photo frame decorated with music notes.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#f4eee8"/><stop offset="1" stop-color="#d8cabe"/></linearGradient>
+    <linearGradient id="frame" x2="1" y2="1"><stop stop-color="#f0c991"/><stop offset=".45" stop-color="#a86f44"/><stop offset="1" stop-color="#e2b77c"/></linearGradient>
+    <linearGradient id="photo" x2="0" y2="1"><stop stop-color="#becac1"/><stop offset="1" stop-color="#63786e"/></linearGradient>
+  </defs>
+  <rect width="800" height="920" fill="url(#bg)"/>
+  <circle cx="614" cy="197" r="104" fill="#fff8ec" opacity=".65"/>
+  <path d="M0 710c210-44 497-45 800 7v203H0z" fill="#c9b6a6"/>
+  <ellipse cx="402" cy="735" rx="190" ry="30" fill="#4d403a" opacity=".2"/>
+  <path d="M337 655 311 715h178l-27-60" fill="#896344"/>
+  <rect x="238" y="213" width="324" height="472" rx="36" fill="url(#frame)" stroke="#8b5d39" stroke-width="8"/>
+  <rect x="277" y="268" width="246" height="345" rx="5" fill="#f3e4cd"/>
+  <rect x="291" y="282" width="218" height="317" fill="url(#photo)"/>
+  <circle cx="399" cy="389" r="51" fill="#e0c4a3"/>
+  <path d="M301 580c31-90 92-131 127-111 40-23 73 14 81 111" fill="#465951"/>
+  <path d="M344 263v-40m0 2c35-25 47 6 33 16-9 7-22 1-24-6m90 32v-54m0 1c36-22 46 9 31 18-9 5-20 0-22-7" fill="none" stroke="#fff0d4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M287 637c-19-31-55-6-30 20l30 23 29-25c22-24-13-46-29-18zM510 367l-19 20 19 20 20-20z" fill="#f2d29d"/>
+  <path d="M259 251c18-22 37-25 55-10m194 438c20-15 36-14 53 2" fill="none" stroke="#ffe7bd" stroke-width="5"/>
+  <text x="400" y="817" text-anchor="middle" fill="#65574d" font-family="Georgia,serif" font-size="24" letter-spacing="7">MUSIC &amp; MEMORY · 03</text>
+</svg>

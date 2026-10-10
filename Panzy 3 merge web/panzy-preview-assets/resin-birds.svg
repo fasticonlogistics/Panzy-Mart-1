@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 920" role="img" aria-labelledby="title desc">
+  <title id="title">Six piece resin bird wall decor concept illustration</title>
+  <desc id="desc">Original arrangement of six small sculpted birds in flight on a warm wall.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f2e6d8"/><stop offset="1" stop-color="#d8c2aa"/></linearGradient>
+    <linearGradient id="bird" x2="1" y2="1"><stop stop-color="#ce9b76"/><stop offset="1" stop-color="#845e58"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4"/></filter>
+    <g id="bird-shape">
+      <ellipse cx="0" cy="0" rx="42" ry="23" fill="url(#bird)"/>
+      <path d="M-15-5c-4-36 25-61 51-64-9 24-19 44-10 68-16 12-29 11-41-4z" fill="#edd5bb"/>
+      <circle cx="32" cy="-7" r="3.5" fill="#382f2a"/>
+      <path d="m40 1 20 5-19 6" fill="#bd8556"/>
+      <path d="M-38 0-69-18l10 26-14 17 34-9" fill="#ac785f"/>
+    </g>
+  </defs>
+  <rect width="800" height="920" fill="url(#bg)"/>
+  <path d="M56 110h688v618H56z" fill="none" stroke="#fff7ee" stroke-width="3" opacity=".48"/>
+  <ellipse cx="393" cy="747" rx="247" ry="24" fill="#5d4537" opacity=".13" filter="url(#shadow)"/>
+  <use href="#bird-shape" x="281" y="294"/>
+  <use href="#bird-shape" x="467" y="375" transform="rotate(10 467 375)"/>
+  <use href="#bird-shape" x="217" y="460" transform="rotate(-12 217 460)"/>
+  <use href="#bird-shape" x="413" y="523" transform="rotate(7 413 523)"/>
+  <use href="#bird-shape" x="568" y="577" transform="rotate(-8 568 577)"/>
+  <use href="#bird-shape" x="274" y="627" transform="rotate(13 274 627)"/>
+  <path d="M189 262c112-105 279-101 393 0m-420 180c57-71 122-105 195-113m63 222c53-44 105-57 158-41" fill="none" stroke="#fff7ec" stroke-width="4" stroke-dasharray="2 15" stroke-linecap="round" opacity=".7"/>
+  <text x="400" y="817" text-anchor="middle" fill="#665246" font-family="Georgia,serif" font-size="24" letter-spacing="7">WALL FLIGHT STUDY · 05</text>
+</svg>
